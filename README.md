@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
- - Actualmente estoy estudiando en The Bridge en el Bootcamp FullStack, soy agente de viajes de empresas y me gustaría en un futuro a corto plazo poder dedicarme a desarrollo profesionalmente.
+ - Actualmente estoy estudiando en The Bridge en el Bootcamp FullStack, me gustaría en un futuro a corto plazo poder dedicarme a desarrollo profesionalmente.
 
 
 
