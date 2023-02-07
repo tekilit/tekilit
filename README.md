@@ -1,9 +1,5 @@
 ### Hi there 👋 
 
- - Actualmente estoy estudiando en The Bridge en el Bootcamp FullStack, me gustaría en un futuro a corto plazo poder dedicarme a desarrollo profesionalmente.
-
-
-
 
 <!--
 **tekilit/tekilit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
